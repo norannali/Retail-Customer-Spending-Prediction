@@ -56,6 +56,6 @@ This solution empowers businesses to:
 
 **[Noran Ali Elsaeid]**  
 📧 noranali322@gmail.com
-📍 GitHub: (https://github.com/noranali)
+📍 GitHub: ([https://github.com/noranali](https://github.com/norannali))
 
 
